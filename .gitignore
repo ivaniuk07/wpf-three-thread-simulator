@@ -1,0 +1,36 @@
+# macOS metadata and Finder files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# .NET build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio and IDE user files
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Editor and operating system swap files
+*~
+*.swp
+*.swo
